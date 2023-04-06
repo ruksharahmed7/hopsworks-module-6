@@ -1,0 +1,6 @@
+*.parquet
+__pycache*
+.hw_api_key
+ca_chain
+certfile
+keyfile
